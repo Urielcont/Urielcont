@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Jr programmer from Mexico. I started developing web and mobile applications 4 years ago, working on both Frontend and Backend. I have experience with various programming languages, with JavaScript being my favorite..</h3>
 
 - 📙 Currently, I'm studying **Software Development at the Technological University of Durango**
-- 📫 How to reach me **Urielalvaro3@gmail.com**
+- 📫 How to reach me **Urielcondev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
